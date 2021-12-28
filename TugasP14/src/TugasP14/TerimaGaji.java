@@ -1,11 +1,8 @@
 package TugasP14;
 
-
 import java.util.Scanner;
 
-
 public class TerimaGaji extends Gaji {
-
 
 
         public Integer jabatan;

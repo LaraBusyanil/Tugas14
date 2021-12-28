@@ -9,9 +9,6 @@ public String noPegawai;
 
 Scanner input = new Scanner(System.in);
 
-
-
-
     @Override
     public void noPegawai(){
         System.out.println("-----INPUT DATA GAJI PEGAWAI-----");

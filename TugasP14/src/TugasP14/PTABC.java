@@ -2,7 +2,6 @@ package TugasP14;
 
 public interface PTABC{
 
-
     void noPegawai();
     void namaPegawai();
     void jabatan();
